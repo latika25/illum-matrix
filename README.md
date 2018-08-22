@@ -1,7 +1,7 @@
 # illum-matrix
 
-##illum-matrix
+## this is a heading
 
-###illum-matrix
+### this is a heading
 
 This is  first line of readme
